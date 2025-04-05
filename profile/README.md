@@ -1,5 +1,5 @@
 ## About us
-JZ-Works is a small group working to create open-source resources for FiveM.
+JZ-Works is a dedicated small group focused on contributing to the FiveM community by creating and sharing open-source resources. Our mission is to enhance the gaming experience for players and developers alike by providing high-quality, freely accessible scripts. Our work is driven by a passion for this game.
 
 ## Our team
 <div align="center">
